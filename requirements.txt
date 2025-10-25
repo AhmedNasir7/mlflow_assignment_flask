@@ -1,0 +1,6 @@
+tensorflow
+flask 
+mlflow 
+pandas 
+numpy 
+matplotlib
